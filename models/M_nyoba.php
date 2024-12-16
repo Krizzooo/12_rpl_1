@@ -1,2 +1,5 @@
 <?php
-class M_contoh {}
+class M_nyoba
+{
+    public function tampil() {}
+}
